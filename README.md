@@ -1,6 +1,6 @@
-# Chat.io
+# Noom
 
-Simple Chatting App using socket.io
+Simple Zoom-like App using WebRTC and Socket.io
 
 To get started, simply clone the repo and run `npm install`.
 Then do `npm run dev` to run on your local at http://localhost:3000.
